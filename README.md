@@ -1,6 +1,6 @@
 ##### Hi, I'm Sarp an aspiring game developer:
 
-- 🎓 About to be graduated from my education in applied social psychology MA - SWPS University of Social Sciences and Humanities
+- 🎓 Studying applied social psychology MA - SWPS University of Social Sciences and Humanities
 - :speech_balloon: Ask me about game development, game design, user experience, or literally anything!
 - :mailbox: You can reach me with the links below
 
