@@ -9,7 +9,7 @@
 
 ##### Languages I use
 
-![C#](https://img.shields.io/badge/-C%23-000000?style=flat&logo=c%23)
+![C#](https://img.shields.io/badge/-C%23-000000?style=flat&logo=.net)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
 
