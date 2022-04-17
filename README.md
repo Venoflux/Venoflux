@@ -1,7 +1,6 @@
-##### Hi, I'm Sarp an aspiring game developer:
+##### Hi, I'm Sarp an aspiring developer:
 
 - 🎓 Studying applied social psychology MA - SWPS University of Social Sciences and Humanities
-- :speech_balloon: Ask me about game development, game design, user experience, or literally anything!
 - :mailbox: You can reach me with the links below
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erolsarpk@gmail.com)
