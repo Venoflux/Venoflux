@@ -1,6 +1,5 @@
 ##### Hi, I'm Sarp a Back-end and Game Developer:
 
-- 🎓 Studying applied social psychology MA - SWPS University of Social Sciences and Humanities
 - :mailbox: You can reach me with the links below
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erolsarpk@gmail.com)
